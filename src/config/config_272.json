@@ -1,0 +1,9 @@
+{
+  "name": "project-config",
+  "version": "1.0.0",
+  "dependencies": {
+    "react": "^17.0.2",
+    "typescript": "^4.5.4",
+    "express": "^4.17.1"
+  }
+}
